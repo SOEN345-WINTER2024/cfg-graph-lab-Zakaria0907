@@ -1,7 +1,29 @@
 # Zakaria El Manar El Bouanani (40190432)
+# Part 1
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Zakaria0907/assets/90121483/e0e6e036-af77-4632-b90a-0f2567e71100)
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Zakaria0907/assets/90121483/2fed2e96-a0b9-4177-aa0c-8556c282205b)
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Zakaria0907/assets/90121483/a459f3af-a0a6-44d5-bcc3-5affa379de64)
+
+# Part 2
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Zakaria0907/assets/90121483/35e149bf-edb5-40e9-819a-a67aaee7d986)
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Zakaria0907/assets/90121483/70f5b5b3-a9c9-4319-a095-a339e6b60569)
+
+## TR - Test Paths (node coverage)
+TR = { 1, 2, 3, 4, 5, 6 }
+Test Paths = { [1, 2, 6], [1, 3, 4, 6], [1, 3, 5, 6] }
+
+## TR - Test Paths (edge coverage)
+TR = { (1, 2), (1, 3), (3, 4), (3, 5), (2, 6), (4, 6), (5, 6) }
+Test Paths = { [1, 2, 6], [1, 3, 4, 6], [1, 3, 5, 6] }
+
+## TR - Test Paths (EPC)
+TR = { [1, 2, 6], [1, 3, 4, 6], [1, 3, 5, 6] }
+Test Paths = { [1, 2, 6], [1, 3, 4, 6], [1, 3, 5, 6] }
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Zakaria0907/assets/90121483/00d03024-94d9-45df-8c2e-1d0693dd1bca)
+
+
+
 
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
